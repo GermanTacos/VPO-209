@@ -1,0 +1,91 @@
+<AddFiles directory="assets">
+
+	<!-- WEAPON PARTS -->
+	
+	<unit_npc	 path="units/mods/weapons/wpn_fps_sho_ak_stamp_366/wpn_fps_sho_ak_stamp_366"/>
+	
+	<!-- DUMMY PARTS -->
+	
+	<unit_obj    path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_shared_pts/wpn_fps_sho_ak_stamp_366_ba_dummy"/>
+	
+	<!-- AKM PARTS -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/vpo209_main_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/vpo209_handguard_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/vpo209_stock_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/vpo209_pistol_grip_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/vpo209_wood_grip_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/vpo209_dust_cover_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/vpo209_bolt_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/vpo209_rear_sight_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/vpo209_muzzle_brake_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_ba_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_bo_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_clr_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_dc_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_fsl_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_gb_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_gt_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_lfhgr_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_ufhgr_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_urhgr_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_hm_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_lhg_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_uhg_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_mr_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_md_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_pg_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_pg_vpo209_wood"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_fo_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_ro_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_fsb_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_rsb_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_rcs_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_re_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_st_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_tr_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_trg_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_ftru_vpo209"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_vpo209_pts/wpn_fps_sho_ak_stamp_366_rtru_vpo209"/>
+	
+	
+	<!-- MAG PARTS -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_mag_pts/mag_beer_30_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_mag_pts/mag_bake_30_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_mag_pts/wpn_fps_sho_ak_stamp_366_m_beer_30"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_mag_pts/wpn_fps_sho_ak_stamp_366_m_bake_30"/>
+	
+	<!-- COMPATIBILITY PARTS -->
+	
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_vpo209"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_vpo209_thq"/>
+	
+	<!-- MOUNT PARTS -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_shared_pts/tula_optic_mount_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_sho_ak_stamp_366_shared_pts/wpn_fps_sho_ak_stamp_366_om_tula"/>
+	
+	<!-- ICONS -->
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/weapons/ak_stamp_366"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_sho_ak_stamp_366_m_bake_30"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_sho_ak_stamp_366_pg_vpo209_bake"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_uhg_vpo209"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_vpo209"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_st_vpo209"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_sho_ak_stamp_366_clr_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_sho_ak_stamp_366_dc_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_sho_ak_stamp_366_lhg_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_sho_ak_stamp_366_uhg_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_sho_ak_stamp_366_md_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_sho_ak_stamp_366_st_no"/>
+
+</AddFiles>
