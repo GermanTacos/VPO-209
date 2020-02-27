@@ -1,4 +1,4 @@
-Hooks:PostHook( WeaponTweakData, "init", "AKMInit", function(self)
+Hooks:PostHook( WeaponTweakData, "init", "VPO209Init", function(self)
 
 --- TBC ---
 if self.new_m4.reload_timed_stance_mod then

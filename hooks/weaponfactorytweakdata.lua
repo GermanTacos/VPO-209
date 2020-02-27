@@ -1,5 +1,5 @@
 --=========================--
---            AKM          --
+--         VPO-209         --
 -- GERMANTACOS, KILLERWOLF --
 --=========================--
 
@@ -9,7 +9,7 @@
 
 --Pretend there are functions here
 
-Hooks:PostHook( WeaponFactoryTweakData, "init", "AKMInit", function(self)
+Hooks:PostHook( WeaponFactoryTweakData, "init", "VPO209Init", function(self)
 
 --=========================--
 --          ARRAYS         --
