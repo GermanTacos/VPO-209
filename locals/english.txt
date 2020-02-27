@@ -57,8 +57,7 @@
 	
 	"bm_wp_wpn_fps_sho_ak_stamp_366_pg_vpo209_bake" : "Bakelite Grip",
 	
-	"bm_wp_wpn_fps_sho_ak_stamp_366_m_steel_10" : "10 Round Steel Magazine",
-	"bm_wp_wpn_fps_sho_ak_stamp_366_m_steel_30" : "30 Round Steel Magazine",
+	"bm_wp_wpn_fps_sho_ak_stamp_366_m_bake_30"  : "30 Round Bakelite Magazine",
 	
 	"bm_wp_wpn_fps_sho_ak_stamp_366_md_no"  : "Remove Muzzle Device",
 	"bm_wp_wpn_fps_sho_ak_stamp_366_clr_no" : "Remove Cleaning Rod",
