@@ -4,6 +4,9 @@
 		<weapon id="ak_stamp_366" based_on="flint" damage_near="25000" damage_far="40000" CLIP_AMMO_MAX="30" NR_CLIPS_MAX="4" can_shoot_through_shield="false" can_shoot_through_enemy="false" can_shoot_through_wall="false" tactical_reload="1" texture_bundle_folder="mods" global_value="ak_pack_2">
 			<stats damage="98" spread="16" spread_moving="15" recoil="13" concealment="15" suppression="8"/>
 			<fire_mode_data fire_rate="0.1"/>
+			<categories>
+				<value_node value="shotgun"/>
+			</categories>
 			<AMMO_PICKUP>
 					<value_node value="3.0"/>
 					<value_node value="5.0"/>
